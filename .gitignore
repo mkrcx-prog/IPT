@@ -14,4 +14,4 @@ __pycache__/
 
 # Fichiers de configuration sensibles
 .env
-instance/
+instance/*.db
